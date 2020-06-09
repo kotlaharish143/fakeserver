@@ -1,0 +1,10 @@
+{
+	"name": "harish",
+	"age": 20,
+	"fname": "harish",
+	"lname": "kotla",
+	"hobbies": {
+		"school": ["singing", "dancing"],
+		"home": ["playng", "dancing"]
+
+	}
